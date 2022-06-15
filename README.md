@@ -1,9 +1,20 @@
-## Olá eu me chamo Lucas Reiser e sou desenvolvedor web Full-Stack
+<h1 align="center">Olá me chamo Lucas Reiser</h1>
+<h3 align="center">desenvolvedor Full-Stack e amante da filosofia.</h3>
+
+- 🌱 Atualmente estou aprendendo **Nodemailer, Docker and Django**
+
+- ⚡ Fun fact **Já estudei eletromecânica, direito e engenharia**
+
+
+##
+
 <div align="center">
   <a href="https://github.com/lcsreiser">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcsreiser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsreiser&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
